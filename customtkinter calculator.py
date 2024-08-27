@@ -108,7 +108,7 @@ class calculator(ctk.CTk):
             result_var (ctk.StringVar): Variable to show the result of calculations.
             equation_var (ctk.StringVar):  Variable to show the current equation being entered.
             count_cursor_move (int): Tracks cursor movements in the equation display using some specific button.
-            # count_equation_move (int): Tracks movements related to equation operations.
+            count_equation_move (int): Tracks movements related to equation operations.
             count_equal_button_click (int): Tracks the number of times the equal button is clicked.It used when the user use CALC button
             variable_index (int): Index for managing variables.
             global_result (float or None): Holds the result of the last calculation.
