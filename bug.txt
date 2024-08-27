@@ -1,0 +1,12 @@
+This code Bug:
+             - Entry widget scrole.
+             - controle button problem.
+             - Error handling when calculate the equation.
+             - User enter keyboard input and mouse input.
+             - CALC function problem. it does not allow any kind of modification after = button click but it should allow it .
+             - Uncompleted "ENG" button .
+             - Basic calculator functionalities .
+             - over flow the screen if the result is big.
+             - if the result is big it does not make it in this "×₁₀" from.
+             - some unnecessary things in this code like "retuen result", one "deep copy". 
+             
